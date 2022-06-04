@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hot.txt");
         System.out.println("push test");
         System.out.println("xin de");
+        System.out.println("xin de pull");
     }
 }
