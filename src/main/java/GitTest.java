@@ -4,5 +4,7 @@ public class GitTest {
         System.out.println("hello word!");
         System.out.println("hello word!");
         System.out.println("master");
+        System.out.println("hot.txt");
+        System.out.println("hot.txt");
     }
 }
